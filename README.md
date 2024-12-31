@@ -62,14 +62,3 @@ The code outputs the following variables:
 *   The material properties (e.g., modulus of elasticity) are implicitly included in the buckling calculations (4000 value). You might need to adjust them based on your material.
 *   The factors of safety used (6, 30, 4, 2) are example values and should be adjusted based on the specific design requirements and applicable codes.
 *   The units of the output depend on the units used in the input `pieces` matrix. Ensure consistency.
-
-## Example Usage (in MATLAB)
-
-```matlab
-% Set the pieces matrix (uncomment one of the examples or create your own)
-% ... (pieces matrix definitions)
-
-% Run the script
-% ... (rest of the code)
-
-% Enter load case when prompted

@@ -1,6 +1,6 @@
 # Section Properties and Stress Analysis of a Composite Beam
 
-This MATLAB code calculates the section properties (area, centroid, moment of inertia) and performs stress analysis (bending stress, shear stress, buckling) for a composite beam made of rectangular pieces.
+This MATLAB code calculates the section properties (area, centroid, moment of inertia) and performs stress analysis (bending stress, shear stress, buckling) for a composite beam made of rectangular pieces. This was part of the Bridge Project for CIV102 (Structures and Materials) at the University of Toronto.
 
 ## Description
 
